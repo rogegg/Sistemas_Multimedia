@@ -7,3 +7,6 @@ El proyecto final para esta asignatura se trata de una aplicación multimedia ca
 
 Para ello se ha programado en Java, donde hemos hecho uso de las diferentes bibliotecas que ofrece para generar interfaces (JavaSwing). Destacar el uso de eventos y manejadores de eventos necesarios para interactuar con el usuario.
  
+ 
+ Readme de la aplicación:
+ [Sistemas_Multimedia/RogelioGilGarciaSM1314/README.TXT](https://github.com/rogegg/Sistemas_Multimedia/blob/master/RogelioGilGarciaSM1314/README.TXT)
